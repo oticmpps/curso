@@ -3,7 +3,6 @@
 
 
 
-
 Taller Básico de Programación para Principiantes V1.8
 Índice de contenido
 Introducción:	5
